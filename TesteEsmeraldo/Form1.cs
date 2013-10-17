@@ -20,5 +20,10 @@ namespace TesteEsmeraldo
         {
             label1.Text = ("fala aí Gabriel, agora foi!!!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = ("2 + 2 = 4");
+        }
     }
 }
